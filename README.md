@@ -48,7 +48,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to Know the Author
-**Kirk Munroe **
+**Kirk Munroe**
  is a Tableau Certified Desktop Professional, Tableau Certified Data Analyst, Tableau Certified Partner Architect, and Tableau Certified Partner Consultant, with over 20 years of work experience in business analytics.
 He is the co-founder of Paint with Data a Tableau partner and visual analytics coaching consulting firm. Kirk works with clients to improve their analytics skills from data modeling to storytelling and presenting. Kirk has worked at analytics software companies, including Salesforce/Tableau, IBM/Cognos, and Kinaxis in senior roles in product management, marketing, sales enablement, and customer success.
 
