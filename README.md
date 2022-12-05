@@ -21,8 +21,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1803
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
 
 
 **Following is what you need for this book:**
@@ -53,6 +51,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Kirk Munroe **
  is a Tableau Certified Desktop Professional, Tableau Certified Data Analyst, Tableau Certified Partner Architect, and Tableau Certified Partner Consultant, with over 20 years of work experience in business analytics.
 He is the co-founder of Paint with Data a Tableau partner and visual analytics coaching consulting firm. Kirk works with clients to improve their analytics skills from data modeling to storytelling and presenting. Kirk has worked at analytics software companies, including Salesforce/Tableau, IBM/Cognos, and Kinaxis in senior roles in product management, marketing, sales enablement, and customer success.
-
 
 
