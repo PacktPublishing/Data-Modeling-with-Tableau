@@ -1,6 +1,6 @@
 # Data Modeling with Tableau 
 
-<a href="https://www.amazon.com/Data-Modeling-Tableau-practical-building/dp/1803248025/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781804613900"><img src="" alt="Data Modeling with Tableau " height="256px" align="right"></a>
+<a href="https://www.amazon.com/Data-Modeling-Tableau-practical-building/dp/1803248025/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781804613900"><img src="https://m.media-amazon.com/images/I/513DwTTFrLL._SX598_BO1,204,203,200_.jpg" alt="Data Modeling with Tableau " height="256px" align="right"></a>
 
 This is the code repository for [Data Modeling with Tableau](https://www.amazon.com/Data-Modeling-Tableau-practical-building/dp/1803248025/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781804613900), published by Packt.
 
