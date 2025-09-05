@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # Data Modeling with Tableau 
 
 <a href="https://www.amazon.com/Data-Modeling-Tableau-practical-building/dp/1803248025/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781804613900"><img src="https://m.media-amazon.com/images/I/513DwTTFrLL._SX598_BO1,204,203,200_.jpg" alt="Data Modeling with Tableau " height="256px" align="right"></a>
